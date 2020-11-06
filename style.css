@@ -96,6 +96,9 @@ h3{
     width: 40%;
     float: right;
 }
+.aman{
+   border-radius: 50%;
+}
 .app-image img{
     width: 80%;
 }
